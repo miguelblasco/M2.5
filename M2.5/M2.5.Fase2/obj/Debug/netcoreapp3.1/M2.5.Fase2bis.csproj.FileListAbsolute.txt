@@ -1,0 +1,13 @@
+C:\Users\EUGENIA\source\repos\M2.5.Fase2bis\bin\Debug\netcoreapp3.1\M2.5.Fase2bis.exe
+C:\Users\EUGENIA\source\repos\M2.5.Fase2bis\bin\Debug\netcoreapp3.1\M2.5.Fase2bis.deps.json
+C:\Users\EUGENIA\source\repos\M2.5.Fase2bis\bin\Debug\netcoreapp3.1\M2.5.Fase2bis.runtimeconfig.json
+C:\Users\EUGENIA\source\repos\M2.5.Fase2bis\bin\Debug\netcoreapp3.1\M2.5.Fase2bis.runtimeconfig.dev.json
+C:\Users\EUGENIA\source\repos\M2.5.Fase2bis\bin\Debug\netcoreapp3.1\M2.5.Fase2bis.dll
+C:\Users\EUGENIA\source\repos\M2.5.Fase2bis\bin\Debug\netcoreapp3.1\M2.5.Fase2bis.pdb
+C:\Users\EUGENIA\source\repos\M2.5.Fase2bis\obj\Debug\netcoreapp3.1\M2.5.Fase2bis.csprojAssemblyReference.cache
+C:\Users\EUGENIA\source\repos\M2.5.Fase2bis\obj\Debug\netcoreapp3.1\M2.5.Fase2bis.AssemblyInfoInputs.cache
+C:\Users\EUGENIA\source\repos\M2.5.Fase2bis\obj\Debug\netcoreapp3.1\M2.5.Fase2bis.AssemblyInfo.cs
+C:\Users\EUGENIA\source\repos\M2.5.Fase2bis\obj\Debug\netcoreapp3.1\M2.5.Fase2bis.csproj.CoreCompileInputs.cache
+C:\Users\EUGENIA\source\repos\M2.5.Fase2bis\obj\Debug\netcoreapp3.1\M2.5.Fase2bis.dll
+C:\Users\EUGENIA\source\repos\M2.5.Fase2bis\obj\Debug\netcoreapp3.1\M2.5.Fase2bis.pdb
+C:\Users\EUGENIA\source\repos\M2.5.Fase2bis\obj\Debug\netcoreapp3.1\M2.5.Fase2bis.genruntimeconfig.cache
